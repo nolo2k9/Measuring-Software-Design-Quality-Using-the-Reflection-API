@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ie.gmit.sw"},{"l":"ie.gmit.sw.DB"},{"l":"ie.gmit.sw.utils"}];updateSearchResults();
